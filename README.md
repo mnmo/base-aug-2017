@@ -33,6 +33,8 @@ jq '.scripts.fmt="prettier --write --tab-width 4"' package.json | ex -sc 'wq!pac
 
 ## Flowtype
 
+[.flowconfig][flowconfig]
+
 ```
 cp "$BASE.flowconfig" .
 npm i -D flow-bin
@@ -98,4 +100,7 @@ npx nps init
 ```
 
 -----
+
+[gitignore]: https://github.com/mnmo/base-aug-2017/blob/master/.gitignore
+[flowconfig]: https://github.com/mnmo/base-aug-2017/blob/master/.gitignore
 
