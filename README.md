@@ -13,7 +13,7 @@ Inspirations:
 [@jlongster][jlongster],
 [@facebook][facebook]
 
-- Code editor: [vim][vim] / [neovim][neovim]
+- Code editor: [vim][vim] / [neovim][nvim]
 - Time sheet: [timetrap][timetrap]
 - Makefile / task runner: [npm scripts with nps][nps]
 - Front-end bundler: [browserify][browserify]
