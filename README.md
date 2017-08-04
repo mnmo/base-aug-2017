@@ -13,6 +13,7 @@ Inspirations:
 [@jlongster][jlongster],
 [@facebook][facebook]
 
+- Shell: [fish][fish]
 - Code editor: [vim][vim] / [neovim][nvim]
 - Time sheet: [timetrap][timetrap]
 - Makefile / task runner: [npm scripts with nps][nps]
@@ -38,6 +39,8 @@ Inspirations:
 [jlongster]: https://github.com/jlongster
 [abramov]: https://github.com/gaearon
 [facebook]: https://github.com/facebook
+
+[fish]: http://fishshell.com/
 [vim]: http://www.vim.org/
 [nvim]: https://neovim.io/
 [timetrap]: https://github.com/samg/timetrap
