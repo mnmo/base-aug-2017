@@ -7,7 +7,7 @@ Inspirations:
 [@substack][substack], 
 [@sindresorhus][sindresorhus],
 [@dominictarr][dominictarr],
-[abramov][@dan_abramov], 
+[@dan_abramov][abramov], 
 [@yoshuawuyts][yoshua], 
 [@chenglou][chenglou],
 [@jlongster][jlongster],
