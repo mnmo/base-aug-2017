@@ -27,8 +27,8 @@ Inspirations:
 - API: [graphql][graphql]
 - Dev webserver: [budo][budo]
 - Static webserver: [http-server][httpserver]
-- Local Tunner: localtunnel.me
-- SSL: Lets Encrypt
+- Local Tunner: [localtunnel.me][localtunnel]
+- SSL: [Lets Encrypt][letsencrypt]
 - Static host: [github pages][ghpages]
 
 [substack]: https://github.com/substack
@@ -56,6 +56,8 @@ Inspirations:
 [ghpages]: https://pages.github.com/
 [leveldb]: http://leveldb.org/
 [graphql]: http://graphql.org/
+[localtunnel]: https://localtunnel.github.io/www/
+[letsencrypt]: https://letsencrypt.org/
 
 -----
 
