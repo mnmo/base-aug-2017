@@ -18,7 +18,7 @@ Inspirations:
 - Time sheet: [timetrap][timetrap]
 - Makefile / task runner: [npm scripts with nps][nps]
 - Front-end bundler: [browserify][browserify]
-- ES6, 7, next features: [es2040][es2040]
+- ES6, 7, next features: [es2040][es2040] (front), node 8.x (back)
 - Type checking: [flow][flow]
 - Code Formating: [prettier][prettier]
 - Configuration / env vars: [toml][toml]
