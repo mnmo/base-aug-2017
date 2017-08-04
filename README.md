@@ -13,9 +13,7 @@ Inspirations:
 [@jlongster][jlongster],
 [@facebook][facebook]
 
-- Shell: [fish][fish]
-- Code editor: [vim][vim] / [neovim][nvim]
-- Time sheet: [timetrap][timetrap]
+Stack:
 - Makefile / task runner: [npm scripts with nps][nps]
 - Front-end bundler: [browserify][browserify]
 - ES6, 7, next features: [es2040][es2040] (front), node 8.x (back)
@@ -27,7 +25,12 @@ Inspirations:
 - API: [graphql][graphql]
 - Dev webserver: [budo][budo]
 - Static webserver: [http-server][httpserver]
-- Local Tunner: [localtunnel.me][localtunnel]
+
+Other tools:
+- Shell: [fish][fish]
+- Code editor: [vim][vim] / [neovim][nvim]
+- Time sheet: [timetrap][timetrap]
+- Local Tunnel: [localtunnel.me][localtunnel]
 - SSL: [Lets Encrypt][letsencrypt]
 - Static host: [github pages][ghpages]
 

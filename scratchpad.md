@@ -56,6 +56,7 @@ npm i -D unflowify
 ```
 echo -e '[app]\nname = ""\n' > config-sample.toml
 npm i -D cpy-cli
+npm i -D https://github.com/BinaryMuse/tomlify.git
 jq '.scripts.postinstall="cpy --no-overwrite --rename config.toml config-sample.toml ."' package.json | ex -sc 'wq!package.json' /dev/stdin
 ```
 
@@ -65,7 +66,15 @@ jq '.scripts.postinstall="cpy --no-overwrite --rename config.toml config-sample.
 
 ```
 npm i -D browserify
-npm i -D unflowify tomlify es2040
+npm i -D es2040
+```
+
+-----
+
+## Choo
+
+```
+npm i choo choo-log
 ```
 
 -----
