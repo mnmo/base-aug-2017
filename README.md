@@ -26,7 +26,7 @@ Inspirations:
 - Database: [leveldb][leveldb]
 - API: [graphql][graphql]
 - Dev webserver: [budo][budo]
-- Static webserver: [http-server][http-server]
+- Static webserver: [http-server][httpserver]
 - Local Tunner: localtunnel.me
 - SSL: Lets Encrypt
 - Static host: [github pages][ghpages]
