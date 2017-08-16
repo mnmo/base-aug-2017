@@ -71,6 +71,14 @@ npm i -D es2040
 
 -----
 
+## Styles
+
+```
+npm i -D sheetify css-extract
+```
+
+-----
+
 ## Choo
 
 ```
